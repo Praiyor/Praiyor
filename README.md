@@ -5,7 +5,7 @@ estudando react, node e Game Maker
 Ele/dele
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praiyori&layout=donut&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praiyor&layout=donut&theme=dracula" />
   <img height="180em" src="338224_3xnLeoKj.png"/>
 </div>
 
