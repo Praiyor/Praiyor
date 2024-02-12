@@ -1,8 +1,8 @@
-###  olá! eu sou Igor/Pryor 
+###     olá! eu sou Igor/Pryor 
 
-- hoje estagio como dev fullstack, onde utilizo PHP e javascript 
+- hoje sou estágiario como dev fullstack, onde utilizo PHP e javascript 
 - 8ª fase de engenharia de software
-- estudando alguma coisa ai
+- estudando Node e Game designe
 - Ele/dele
 
 <div align="center">
