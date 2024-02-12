@@ -6,8 +6,7 @@ Ele/dele
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praiyor&layout=donut&theme=dracula" />
-  <img height="180em" src="https://cdn.discordapp.com/attachments/1091212179614744577/1206623435837415494/download20240201123034.png?ex=65dcaea5&is=65ca39a5&hm=9415520eb662849ef8b8bb0b19a6e03ac2d44a55319beddce76c2e88dd1d1254&
-"/>
+  <img height="180em" src="https://cdn.discordapp.com/attachments/1091212179614744577/1206623435837415494/download20240201123034.png?ex=65dcaea5&is=65ca39a5&hm=9415520eb662849ef8b8bb0b19a6e03ac2d44a55319beddce76c2e88dd1d1254&"/>
 </div>
 
 <div align="center"> 
