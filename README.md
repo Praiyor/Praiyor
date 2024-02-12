@@ -2,7 +2,7 @@
 
 - hoje estagio como dev fullstack, onde utilizo PHP e javascript 
 - 8ª fase de engenharia de software
-- estudando react, node e Game Maker
+- estudando como dar um tiro na cara da Nath sem ser pego
 - Ele/dele
 
 <div align="center">
