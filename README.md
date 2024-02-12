@@ -13,4 +13,3 @@
 <div align="center"> 
   <a href = "mailto:igorigormeurer34@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-https://cdn.discordapp.com/attachments/1091212179614744577/1206623435837415494/download20240201123034.png?ex=65dcaea5&is=65ca39a5&hm=9415520eb662849ef8b8bb0b19a6e03ac2d44a55319beddce76c2e88dd1d1254&
