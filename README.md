@@ -1,8 +1,8 @@
-### ✧ ⋆｡˚ olá! eu sou Igor/Pryor ✧ ⋆｡˚
+###  olá! eu sou Igor/Pryor 
 
 - hoje estagio como dev fullstack, onde utilizo PHP e javascript 
 - 8ª fase de engenharia de software
-- estudando como dar um tiro na cara da Nath sem ser pego
+- estudando alguma coisa ai
 - Ele/dele
 
 <div align="center">
