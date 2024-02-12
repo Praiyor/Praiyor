@@ -12,5 +12,5 @@ Ele/dele
 <div align="center"> 
   <a href = "mailto:igorigormeurer34@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-![image](https://github.com/Praiyor/Praiyor/assets/87154663/614ffe74-0550-45a3-9464-6714844dfd4a)
+[![image](https://github.com/Praiyor/Praiyor/assets/87154663/614ffe74-0550-45a3-9464-6714844dfd4a)](https://cdn.discordapp.com/attachments/1091212179614744577/1206621481321111562/338224_3xnLeoKj.png?ex=65dcacd3&is=65ca37d3&hm=3f5ae9293d9d52cc6ede2bb9ffc9e5554a433befb4128b31d6b304274fef2486&)https://cdn.discordapp.com/attachments/1091212179614744577/1206621481321111562/338224_3xnLeoKj.png?ex=65dcacd3&is=65ca37d3&hm=3f5ae9293d9d52cc6ede2bb9ffc9e5554a433befb4128b31d6b304274fef2486&
 
