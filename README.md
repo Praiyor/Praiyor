@@ -1,6 +1,6 @@
 ###     olá! eu sou Pryor/Igor
 
-- hoje sou estágiario como dev fullstack, onde utilizo PHP e javascript 
+- hoje sou estágiario no EMPDS como dev fullstack, onde utilizo PHP e javascript 
 - 8ª fase de engenharia de software
 - estudando Node e Game designe
 
