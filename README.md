@@ -1,9 +1,8 @@
-###     olá! eu sou Igor/Pryor 
+###     olá! eu sou Pryor 
 
 - hoje sou estágiario como dev fullstack, onde utilizo PHP e javascript 
 - 8ª fase de engenharia de software
 - estudando Node e Game designe
-- Ele/dele
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praiyor&layout=donut&theme=dracula" />
